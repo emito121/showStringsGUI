@@ -1,0 +1,10 @@
+name: showlettersgui
+channels:
+- defaults
+dependencies:
+- python
+- pip
+- pip:
+  - PyQt5
+  - python-time
+  - pyqt5-tools
