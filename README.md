@@ -1,2 +1,2 @@
 # Show Strings GUI
-Graphic interface
+Interfaz gráfica para mostrar strings
